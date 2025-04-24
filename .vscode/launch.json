@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LinksApplication<links>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.exemplo.provaav1.LinksApplication",
+            "projectName": "links",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
